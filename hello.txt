@@ -1,5 +1,11 @@
 hello users, your file has been uploaded.
 
+
+touch filename.txt
 git add.
 git commit -m "demo comment"
 git push 
+username - githubusername
+password - personal access tokens
+
+Hit enter - Code is successfully pushed to your repo 
