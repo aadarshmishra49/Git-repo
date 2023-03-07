@@ -1,2 +1,5 @@
 hello users, your file has been uploaded.
 
+git add.
+git commit -m "demo comment"
+git push 
